@@ -4,8 +4,7 @@
 
 <p>It provides information about the dostors working in the hospiyal and the services provided. It can be udes to make an appointment at the hospital</p>
 
-<h3>Screen Gif</h3>
+<h3>Ptoject Gif</h3>
 
-
-https://github.com/nazanyilmaz/Hospital-APP/assets/147782488/589404a6-d953-4de5-a8fe-1e28da1e3db3
+![ezgif com-optimize (12)](https://github.com/nazanyilmaz/Hospital-APP/assets/147782488/670283f8-4a3e-4540-96a6-eeea197ae9ad)
 
